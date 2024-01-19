@@ -1,0 +1,12 @@
+{
+  "name": "-hexlet-my-first-workflow",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Учебный проект по курсу hexlet непрерывная интеграция",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
