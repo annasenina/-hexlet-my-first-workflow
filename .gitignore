@@ -12,3 +12,14 @@ modern.jsonp
 resources/sass/.sass-cache/
 resources/.arch-internal-preview.css
 .arch-internal-preview.css
+
+# Dependency directories
+node_modules/
+
+# Macos attributes file
+.DS_Store
+
+# IDE
+.vscode
+.idea
+.history
